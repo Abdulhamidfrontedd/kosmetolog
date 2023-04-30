@@ -1,0 +1,22 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "liveSassCompile.settings.autoprefix": [
+    
+
+
+        "> 1%",
+        "last 2 versions"
+    ],
+    "liveSassCompile.settings.formats":[
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/css"
+        },
+    ],
+    "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+    "window.zoomLevel": 1
+}
